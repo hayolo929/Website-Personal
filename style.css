@@ -1,0 +1,52 @@
+.layanan{
+    background: linear-gradient(45deg, #FFCC00 0%, #FAB12F 50%, #FF7D29 100%);
+    min-height: 550px;
+}
+
+.layanan-kami{
+    color: brown;
+    font-weight: 700;
+    text-align: center;
+    padding: 50px;
+}
+
+#StrukturOrganisasi {
+    color: brown;
+    padding: 20px 0;
+}
+
+#StrukturOrganisasi .list-group-item {
+    background-color: #fff;
+    margin-bottom: 10px;
+    border: 1px solid #fab12f;
+}
+
+#StrukturOrganisasi .list-group-item-primary {
+    background-color: #ffcc00;
+    color: brown;
+}
+
+#Layanan .card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#Contact {
+    color: brown;
+    padding: 20px 0;
+}
+
+#Contact .btn-primary {
+    background-color: brown !important;
+    border-color: brown !important;
+}
+
+#Contact a {
+    color: brown;
+    text-decoration: none;
+}
+
+#Contact a:hover {
+    text-decoration: underline;
+}
